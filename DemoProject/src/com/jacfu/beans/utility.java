@@ -11,5 +11,11 @@ public class utility {
 
 
 	}
+	public void m2(){
+		
+		System.out.print("tag3gfdgfgfd released");	
+
+	}
+
 
 }

@@ -7,12 +7,6 @@ public class utility {
 		
 		System.out.print(" Tl hello world");
 		System.out.print("hello worldhhhhhhhhhhhhhhh");
-<<<<<<< HEAD
-		System.out.print("Tl hello world haamus");
-		
-=======
-
->>>>>>> branch 'master' of https://github.com/jacfuu1/GitDemo.git
 	}
 
 }
